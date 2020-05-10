@@ -1,1 +1,3 @@
-# Power-BI
+# Power-BI - VIDEO GAMES SALES ANALYSIS
+
+Achievements: I was able to create dashboards on Power-BI using data visualisation tools to analyse video game sales between 1980-2018. Skills and tools which I used include: Data cleaning, stacked area chart, bar charts and also filters to compare the sales across Europe, North America and Japan.  Questions which I has answered from my Power-BI dashboards: How has the video game sales changed over the years and specifically in each region? What genre has had the most sales in Japan? What were the top platform and titles sold in Europe in 2011? From the Power-BI dashboards, I was able to see there was a gradual increase in sales until 2008 and then declines for recent years.  Role-playing was the highest genre purchased making up 27.3% of the total sales. PS3 was the most purchased platform with ‘Call of Duty:Modern Warfare 3’, the highest title sold. 
